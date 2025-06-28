@@ -1,0 +1,5 @@
+1. Update my FastAPI project to use Docling (CPU) for PDF processing, in addition to Markdown. Update my requirement txt with "docling" and try to install it
+
+2. Regarding the dependencies in my requirements.txt, search the internet and ensure that I pin each one to a fixed, up-to-date version. After updating, try running the project again to see if it still works.
+
+3. Create a Dockerfile for my project.
